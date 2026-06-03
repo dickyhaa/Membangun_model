@@ -1,0 +1,11 @@
+DagsHub Repository:
+https://dagshub.com/dickyhaa/MSML-Telco-Churn
+
+MLflow Experiment:
+Telco Customer Churn Advanced Modelling
+
+Run Name:
+RandomForest_Tuning_Manual_Logging
+
+Keterangan:
+Model dilatih menggunakan dataset Telco Customer Churn yang telah melalui proses preprocessing. Experiment tracking dilakukan menggunakan MLflow dan DagsHub.

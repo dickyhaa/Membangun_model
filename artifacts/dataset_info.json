@@ -1,0 +1,15 @@
+{
+    "train_rows": 5634,
+    "train_features": 45,
+    "test_rows": 1409,
+    "test_features": 45,
+    "target_column": "Churn",
+    "train_target_distribution": {
+        "0": 4139,
+        "1": 1495
+    },
+    "test_target_distribution": {
+        "0": 1035,
+        "1": 374
+    }
+}
